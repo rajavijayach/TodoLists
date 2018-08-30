@@ -4,12 +4,13 @@
 
 ### Getting Started ###
 
-1) Download or clone this repo
-2) Open terminal and navigate to the repo
-3) Enter the following commands
+Open terminal and enter the following commands
 
 ```
+	> git clone https://github.com/rajavijayasaradhi/TodoLists.git TodoLists
+	> cd TodoLists
 	> npm install
 	> npm run electron
     
 ```
+
